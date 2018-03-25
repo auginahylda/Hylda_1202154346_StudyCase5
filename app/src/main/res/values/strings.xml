@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Hylda_1202154346_StudyCase5</string>
+    <string name="key">key</string>
+    <string name="name">Name</string>
+    <string name="tes">Tes</string>
+    <string name="tes2">Tes2</string>
+    <string name="priority">Priority</string>
+    <string name="tes4">tes4</string>
+    <string name="shapecolor">Shape</string>
+    <string name="todo_name">ToDo Name</string>
+    <string name="description">Description</string>
+    <string name="add_todo_list">add todo list</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="Default">Default</string>
+    <string name="todolist_name">Todolist Name</string>
+    <string name="detail">Detail</string>
+    <string name="priority_number">Priority Number</string>
+    <string name="add_todolist">Add Todolist!</string>
+
+</resources>
